@@ -1,2 +1,1 @@
-# ai-mentor-portfolio
-ai-mentor-portfolio
+AI Mentor Bootcamp — Varri Girish
